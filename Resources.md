@@ -3,6 +3,59 @@
 - https://www.howtographql.com/basics/2-core-concepts/
 
 
+### Articles
+- [RestQL - Using GraphQL for building REST APIs - 2017](https://www.zweitag.de/en/blog/restql-using-graphql-for-building-rest-apis/) <- USE SERVER-SIDE!
+
+- https://maartenvanvliet.nl/2018/12/29/absinthe_macro_dsl/
+- [Efficiently querying data in batches using Absinthe](https://sevenseacat.net/posts/2021/querying-batches-with-absinthe/)
+- [How Absinthe Uses Compilation Callbacks for Schema Validation in Elixir](https://blog.appsignal.com/2021/01/19/how-absinthe-uses-compilation-callbacks-for-schema-validation-in-elixir.html)
+- [Testing the Tricky Parts of an Absinthe Application - 2020/08](https://blog.appsignal.com/2020/08/19/testing-absinthe.htm)
+- [GraphQL subscriptions with Elixir and Absinthe - 2019/12](https://nts.strzibny.name/graphql-subscriptions-with-elixir-and-absinth/)
+
+- [Stream Paginated GraphQL API in Elixir](https://medium.com/@gottfrois/stream-paginated-graphql-api-in-elixir-11b3b5fdf8fe)
+- [Using WebSockets With Cookie-Based Authentication - 2020/05](https://coletiv.com/blog/using-websockets-with-cookie-based-authentication/)
+- [Urql graphql subscriptions with Absinthe - 2020/08](https://maartenvanvliet.nl/2020/08/29/absinthe_and_urql/)
+- [How to disable Absinthe GraphQL introspection](https://elixirforum.com/t/how-to-disable-absinthe-graphql-introspection/35598/3)
+
+
+
+### Videos
+- [Hubert Łępicki - Functional APIs with GraphQL & Elixir - Code BEAM Lite Berlin 18](https://www.youtube.com/watch?v=K_9IXTUwVL4)
+- [YOW! 2017 Josh Price - Better APIs with GraphQL #YOW - 2018](https://www.youtube.com/watch?v=zlB07YXk57I)
+- [code.talks 2018 Echtzeitapplikationen mit Elixir und GraphQL - 2018](https://www.youtube.com/watch?v=vFtuRFywb4A)
+- [Serving it the Absinthe Way - 2018](https://www.youtube.com/watch?v=j8yG6CFjAhU)
+- [GraphQL в Elixir. Работа с Phoenix - 2020/07](https://www.youtube.com/watch?v=91HA1CAY6BU)
+- [Bruce Williams - A GraphQL-on-Elixir Primer - Code Beam SF 2018](https://www.youtube.com/watch?v=enbksvAko98)
+
+
+### Tutorials
+
+- https://www.howtographql.com/graphql-elixir/2-queries/
+
+
+### Tools
+- https://blog.bitsrc.io/13-graphql-tools-and-libraries-you-should-know-in-2019-e4b9005f6fc2
+- https://graphcms.com/blog/best-graphql-tools-2021
+- https://github.com/graphql/graphql-playground
+- https://github.com/APIs-guru/graphql-voyager
+- https://www.graphql-code-generator.com/docs/plugins/typescript-resolvers
+- https://graphqleditor.com/
+- https://altair.sirmuel.design/#download
+
+- https://github.com/2fd/graphdoc#demos (Docs generator)
+
+
+### Elixir Clients
+- https://github.com/annkissam/common_graphql_client
+- https://github.com/uesteibar/neuron
+
+### Clients
+
+- Relay
+- Appolo ( most popular and good?)
+- https://github.com/FormidableLabs/urql
+
+
 ### Examples
 
 - https://github.com/PetrNikolas/blazeee - Blazeee: Elixir/Phoenix starter kit for modern development. (Elixir/Phoenix API, GraphQL - Absinthe, JWT authentication, Postgres, Docker, Travis, Gitlab CI, Swagger)
@@ -49,9 +102,7 @@
 
 - https://github.com/unstacked/level
   - https://github.com/unstacked/level/tree/master/lib/level_web
-### Articles
 
-- https://maartenvanvliet.nl/2018/12/29/absinthe_macro_dsl/
 
 ### Community
 
