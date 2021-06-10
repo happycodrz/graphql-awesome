@@ -22,9 +22,33 @@
   - https://github.com/glific/glific/blob/master/lib/glific/partners/billing.ex
 
 
+- https://github.com/santiment/sanbase2
+  - https://github.com/santiment/sanbase2/tree/master/lib/sanbase_web/graphql/schema/types
+
+
+- https://github.com/framasoft/mobilizon
+  - https://github.com/framasoft/mobilizon/tree/master/lib/graphql
+
 - https://github.com/dkarter/absinthe_subscription
   - 🚇 An example of creating GraphQL Subscriptions over WebSockets using Absinthe and Phoenix Channels
 
+- https://github.com/Glimesh/glimesh.tv
+  - https://github.com/Glimesh/glimesh.tv/blob/dev/lib/glimesh/graphql/schema/chat_types.ex
+
+
+- https://github.com/makeorbreak-io/mob-api
+  - https://github.com/makeorbreak-io/mob-api/tree/master/lib/api/graphql
+
+
+- https://github.com/PlayhouseGG/playhouse
+  - https://github.com/PlayhouseGG/playhouse/tree/main/server/lib/web/graphql
+
+
+- https://github.com/hippware/wocky
+  - https://github.com/hippware/wocky/tree/master/apps/wocky_api/lib/wocky_api
+
+- https://github.com/unstacked/level
+  - https://github.com/unstacked/level/tree/master/lib/level_web
 ### Articles
 
 - https://maartenvanvliet.nl/2018/12/29/absinthe_macro_dsl/
