@@ -1,0 +1,19 @@
+https://github.com/absinthe-graphql/absinthe-socket []
+https://github.com/absinthe-graphql/absinthe/ []
+https://github.com/annkissam/common_graphql_client [] Elixir GraphQL Client with HTTP and WebSocket Support
+https://github.com/doctorcorral/absinthegraphqlbook [] Source code from Craft GraphQL APIs in Elixir with Absinthe
+https://github.com/exAspArk/batch_loader [] ⚡ Powerful tool for avoiding N+1 DB or HTTP queries
+https://github.com/futpib/ex_unit_absinthe [testing] Helpers for Absinthe GraphQL tests
+https://github.com/gen1321/anise [testing] Set of helpers/asserts for Absinthe
+https://github.com/geometerio/absinthe_graphql_ws [] Add graphql-ws websocket transport for Absinthe
+https://github.com/glific/glific [realworld]
+https://github.com/hadfieldn/absinthe_sorting_codec []
+https://github.com/IvanIvanoff/absinthe_cache [caching] Caching Absinthe GraphQL queries
+https://github.com/jungsoft/crudry [] Crudry is an Elixir library for DRYing CRUD in Phoenix Contexts and Absinthe Resolvers.
+https://github.com/jungsoft/uploadex [] Elixir library for handling uploads with Ecto, Phoenix and Absinthe
+https://github.com/maartenvanvliet/apq [] Support for Automatic Persisted Queries in Absinthe
+https://github.com/maartenvanvliet/artem [testing] Library to aid in Absinthe graphql testing
+https://github.com/Nickforall/Freight [] 🚚💨 Dynamically create Absinthe GraphQL payload objects for mutations
+https://github.com/rzane/absinthe_conn_test [testing] https://github.com/rzane/absinthe_conn_test
+https://github.com/sashman/absinthe_gen [] Scaffold generator for elixir phoenix absinthe projects
+https://github.com/tinfoil/wormwood [testing] Wormwood is a tiny library to aid in testing GraphQL queries against an Absinthe schema. It allows you to test your query documents inside ExUnit test modules, and requires no HTTP requests to occur during testing.
