@@ -17,9 +17,16 @@
 - [Urql graphql subscriptions with Absinthe - 2020/08](https://maartenvanvliet.nl/2020/08/29/absinthe_and_urql/)
 - [How to disable Absinthe GraphQL introspection](https://elixirforum.com/t/how-to-disable-absinthe-graphql-introspection/35598/3)
 
+- https://thinkingelixir.com/rest-vs-graphql-for-an-api/
 
 
 ### Videos
+
+- Good intro in Russian:
+  - [GraphQL в Elixir. Работа с Phoenix - 2020/07 - 2h](https://www.youtube.com/watch?v=91HA1CAY6BU)
+  - [GraphQL в Elixir. Неочевидные задачи - 2020/07 - 1h](https://www.youtube.com/watch?v=fBvF6Y0jZQA)
+
+
 - [Hubert Łępicki - Functional APIs with GraphQL & Elixir - Code BEAM Lite Berlin 18](https://www.youtube.com/watch?v=K_9IXTUwVL4)
 - [YOW! 2017 Josh Price - Better APIs with GraphQL #YOW - 2018](https://www.youtube.com/watch?v=zlB07YXk57I)
 - [code.talks 2018 Echtzeitapplikationen mit Elixir und GraphQL - 2018](https://www.youtube.com/watch?v=vFtuRFywb4A)
@@ -31,6 +38,8 @@
 ### Tutorials
 
 - https://www.howtographql.com/graphql-elixir/2-queries/
+
+- https://pragmaticstudio.com/unpacked-full-stack-graphql-with-absinthe-phoenix-react
 
 
 ### Tools
